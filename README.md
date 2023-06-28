@@ -1,8 +1,5 @@
-# scheduler_201905
+# project_CPUscheduler
 
-2019.05.19.
-
-C
-
-2019 Spring, <Operating System> final project,
-  job scheduler simulation program
+2019.05.19. (C)
+Final project of 'Operating System'.
+CPU scheduler simulation program.
